@@ -1,33 +1,66 @@
-# Image-Denoising-Landscape
+# 🖼️ Image Denoising Landscape
 
-## News:
-- https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos/
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## Reddit Posts:
+A curated collection of state-of-the-art **Image Denoising** research, tools, and datasets. This repository aims to consolidate the most impactful work in the field of AI-driven noise reduction, from classic algorithms to modern Deep Learning approaches like Noise2Noise.
 
+---
 
-## Samples from github:
+## 🚀 Featured News
+*   **NVIDIA AI Denoising:** [AI can now fix your grainy photos by only looking at grainy photos](https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos/) - A breakthrough in self-supervised learning for image restoration.
 
-| Samples       | Pretrained Models           | Code  | Paper  | Output Quality
-| ------------- |:---------------------------:| -----:| ------:|------:|
-| [Nvidia's Noise 2 Noice](https://www.youtube.com/watch?v=P0fMwA3X5KI)| [Model]() | [Code](https://github.com/NVlabs/noise2noise) | [1803.04189](https://arxiv.org/abs/1803.04189) | A |
+---
 
+## 📚 State-of-the-Art Samples & Resources
 
-If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
+| Project / Method | Pretrained Model | Source Code | Research Paper | Quality |
+| :--- | :---: | :---: | :---: | :---: |
+| **NVIDIA Noise2Noise** | [Download]() | [GitHub](https://github.com/NVlabs/noise2noise) | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | ⭐⭐⭐⭐⭐ |
 
-## Product Demos:
+---
 
-## Arxiv-sanity
+## 🛠️ Product Demos & Tools
+*(Coming Soon)* - Explore interactive demos of image denoising algorithms.
 
-## Other Arxiv
+---
 
+## 📺 Multimedia & Learning
+### YouTube Highlights
+*   [Noise2Noise: Learning Image Restoration without Clean Data](https://www.youtube.com/watch?v=P0fMwA3X5KI) - Official NVIDIA demo.
 
-## Youtube
+---
 
+## 🔍 Research Deep Dive
+*   [Arxiv-Sanity (Image Denoising)](http://www.arxiv-sanity.com/search?q=image+denoising) - Track the latest papers in real-time.
 
-### Support:
+---
 
-If you want the good work to continue please support us on
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-* [PAYPAL](https://www.paypal.me/ishandutta2007)
-* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## ❤️ Support
+If you find this consolidation useful and want to support the continued maintenance of this project, consider:
+
+*   **PayPal:** [Donate via PayPal](https://www.paypal.me/ishandutta2007)
+*   **Bitcoin:** `3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD`
+
+---
+
+### 📈 Project Velocity
+
+![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Image-Denoising-Landscape&type=date&theme=dark)
+
+---
+
+*Keywords: Image Denoising, Noise Reduction, Deep Learning, Computer Vision, NVIDIA Noise2Noise, Image Restoration, AI Research, Machine Learning.*
+
