@@ -4,36 +4,49 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated collection of state-of-the-art **Image Denoising** research, tools, and datasets. This repository aims to consolidate the most impactful work in the field of AI-driven noise reduction, from classic algorithms to modern Deep Learning approaches like Noise2Noise.
+A curated collection of state-of-the-art **Image Denoising** research, tools, and datasets. This repository aims to consolidate the most impactful work in the field of AI-driven noise reduction, from classic algorithms to modern Deep Learning and Transformer-based approaches.
 
 ---
 
-## 🚀 Featured News
-*   **NVIDIA AI Denoising:** [AI can now fix your grainy photos by only looking at grainy photos](https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos/) - A breakthrough in self-supervised learning for image restoration.
+## 🚀 Featured News & Trends
+*   **AKDT (2026 SOTA):** [Adaptive Kernel Dilation Transformer](https://github.com/albrateanu/AKDT) sets a new benchmark for efficiency and quality in real-world denoising.
+*   **NTIRE 2025 Challenge:** The latest [Image Denoising Challenge](https://cvlai.github.io/ntire-2025/) results show a significant shift toward hybrid Transformer-CNN architectures.
+*   **InstructIR (ECCV 2024):** High-quality image restoration now supports [human language instructions](https://github.com/mv-lab/InstructIR) (e.g., "Remove the grain from this low-light photo").
+*   **NVIDIA AI Denoising:** [AI can now fix your grainy photos by only looking at grainy photos](https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos/) - The foundational Noise2Noise breakthrough.
 
 ---
 
 ## 📚 State-of-the-Art Samples & Resources
 
-| Project / Method | Pretrained Model | Source Code | Research Paper | Quality |
-| :--- | :---: | :---: | :---: | :---: |
-| **NVIDIA Noise2Noise** | [Download]() | [GitHub](https://github.com/NVlabs/noise2noise) | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | ⭐⭐⭐⭐⭐ |
+| Project / Method | Focus | Source Code | Research Paper | Quality |
+| :--- | :--- | :---: | :---: | :---: |
+| **NVIDIA Noise2Noise** | Self-Supervised | [GitHub](https://github.com/NVlabs/noise2noise) | [arXiv:1803.04189](https://arxiv.org/abs/1803.04189) | ⭐⭐⭐⭐⭐ |
+| **Restormer** | Efficient Transformer | [GitHub](https://github.com/swz30/Restormer) | [arXiv:2111.09881](https://arxiv.org/abs/2111.09881) | ⭐⭐⭐⭐⭐ |
+| **InstructIR** | Language-Guided | [GitHub](https://github.com/mv-lab/InstructIR) | [ECCV 2024](https://arxiv.org/abs/2301.12213) | ⭐⭐⭐⭐ |
+| **PMRF** | Photo-realistic Flow | [GitHub](https://github.com/ohayonguy/PMRF) | [ICLR 2025](https://arxiv.org/abs/2410.03810) | ⭐⭐⭐⭐⭐ |
+| **SplitterNet** | Mobile Efficiency | [GitHub](https://github.com/rflepp/SplitterNet) | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Flepp_SplitterNet_Efficient_and_High-Quality_Image_Denoising_on_Mobile_Devices_CVPR_2024_paper.html) | ⭐⭐⭐⭐ |
 
 ---
 
-## 🛠️ Product Demos & Tools
-*(Coming Soon)* - Explore interactive demos of image denoising algorithms.
+## 🛠️ Product Demos & Online Tools
+*   **[Hugging Face Spaces](https://huggingface.co/spaces?q=denoising):** Explore live community-built demos of SOTA models like NAFNet and Restormer.
+*   **[LetsEnhance.io](https://letsenhance.io/):** Professional-grade online denoiser and upscaler.
+*   **[VanceAI Denoiser](https://vanceai.com/denoise-ai/):** Deep learning-based tool specialized in preserving textures (skin, fur).
+*   **[Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai):** Industry leader in precision noise reduction and detail recovery.
 
 ---
 
 ## 📺 Multimedia & Learning
 ### YouTube Highlights
-*   [Noise2Noise: Learning Image Restoration without Clean Data](https://www.youtube.com/watch?v=P0fMwA3X5KI) - Official NVIDIA demo.
+*   [Noise2Noise: Official NVIDIA Demo](https://www.youtube.com/watch?v=P0fMwA3X5KI) - Understanding restoration without clean data.
+*   [Image Restoration with Transformers](https://www.youtube.com/watch?v=kYI6w6y029M) - A deep dive into how models like Restormer work.
 
 ---
 
 ## 🔍 Research Deep Dive
-*   [Arxiv-Sanity (Image Denoising)](http://www.arxiv-sanity.com/search?q=image+denoising) - Track the latest papers in real-time.
+*   **[Arxiv-Sanity (Image Denoising)](http://www.arxiv-sanity.com/search?q=image+denoising):** Real-time tracking of the latest research papers.
+*   **[Awesome-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-Low-Level-Vision):** A comprehensive list of low-level vision resources including 2024-2026 conferences.
+*   **[NTIRE Workshops](https://cvlai.github.io/ntire-2025/):** The premier venue for image restoration challenges and breakthroughs.
 
 ---
 
@@ -56,11 +69,4 @@ If you find this consolidation useful and want to support the continued maintena
 
 ---
 
-### 📈 Project Velocity
-
-![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Image-Denoising-Landscape&type=date&theme=dark)
-
----
-
-*Keywords: Image Denoising, Noise Reduction, Deep Learning, Computer Vision, NVIDIA Noise2Noise, Image Restoration, AI Research, Machine Learning.*
-
+*Keywords: Image Denoising, Noise Reduction, Deep Learning, Computer Vision, NVIDIA Noise2Noise, Restormer, InstructIR, Image Restoration, AI Research, Machine Learning, CVPR 2024, ECCV 2024, ICLR 2025, NTIRE 2025.*
