@@ -69,4 +69,10 @@ If you find this consolidation useful and want to support the continued maintena
 
 ---
 
+### 📈 Project Velocity
+
+![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Image-Denoising-Landscape&type=date&theme=dark)
+
+---
+
 *Keywords: Image Denoising, Noise Reduction, Deep Learning, Computer Vision, NVIDIA Noise2Noise, Restormer, InstructIR, Image Restoration, AI Research, Machine Learning, CVPR 2024, ECCV 2024, ICLR 2025, NTIRE 2025.*
