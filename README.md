@@ -7,20 +7,17 @@
 <br />
 <br />
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Image-Denoising-Landscape?style=social)](https://github.com/ishandutta2007/Image-Denoising-Landscape)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Image-Denoising-Landscape?style=social)](https://github.com/ishandutta2007/Image-Denoising-Landscape)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br />
 
-<a href="https://github.com/ishandutta2007?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-
 <p align="center">
-  <strong>The definitive curated landscape of AI image denoising research, deep learning architectures, diffusion models, real-world benchmark datasets, and online noise reduction tools.</strong>
+  <strong>✨ The definitive curated landscape of AI image denoising research, deep learning architectures, diffusion models, real-world benchmark datasets, and online noise reduction tools. 🚀</strong>
 </p>
 
 </div>
@@ -29,7 +26,7 @@
 
 ## 📖 Table of Contents
 
-- [Overview & Denoising Taxonomy](#-overview--denoising-taxonomy)
+- [📌 Overview & Denoising Taxonomy](#-overview--denoising-taxonomy)
 - [🚀 Featured News & SOTA Trends (2024–2026)](#-featured-news--sota-trends-20242026)
 - [🧠 Deep Learning & Transformer Architectures](#-deep-learning--transformer-architectures)
 - [⚡ Self-Supervised & Zero-Shot Denoising](#-self-supervised--zero-shot-denoising)
@@ -40,7 +37,7 @@
 - [📺 Tutorials, Surveys & Key Lectures](#-tutorials-surveys--key-lectures)
 - [🤝 Contributing](#-contributing)
 - [❤️ Support & Sponsorship](#️-support--sponsorship)
-- [📈 Project Velocity](#-project-velocity)
+- [⭐ Star History](#--star-history)
 
 ---
 
@@ -214,9 +211,8 @@ If this curated repository assists your computer vision research, engineering pi
 
 ---
 
-## 📈 Project Velocity
-
-[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Image-Denoising-Landscape&type=Date&theme=dark)](https://star-history.com/#ishandutta2007/Image-Denoising-Landscape&Date)
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Image-Denoising-Landscape&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Image-Denoising-Landscape&type=date&legend=top-left)
 
 ---
 
